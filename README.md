@@ -16,3 +16,5 @@ More info in Chat API repo wiki https://github.com/mgp25/Chat-API
 - You will NOT use this API for marketing purposes (spam, massive sending...).
 - We do NOT give support to anyone that wants this API to send massive messages or similar.
 - We reserve the right to block any user of this repository that does not meet these conditions.
+
+Mobilemail
